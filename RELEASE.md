@@ -1,6 +1,6 @@
 # PumpMusic Release Notes
 
-## Version 1.0.0 (Beta) - 2023-06-15
+## Version 1.0.0 (Beta) - 2025-03-01
 
 ### Overview
 We are excited to announce the first beta release of PumpMusic, an innovative AI-powered music generation platform. This release includes core functionality for AI music generation, user authentication, token management, and a basic music library.
